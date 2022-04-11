@@ -9,7 +9,7 @@ Datasets that can be used are in this repository.
 
 The generated output should look like this:
 
-[](output.png)
+![](output.png)
 
 You should print just the top 50 used words, along with their frequencies.
 
@@ -28,4 +28,4 @@ Goal:
   - Etc.
 - Why? Magic! See more at https://www.youtube.com/watch?v=fCn8zs912OE
 
-[](screenshot.png)
+![](screenshot.png)
